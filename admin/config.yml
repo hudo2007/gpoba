@@ -2,7 +2,7 @@ backend:
   name: github
   repo: hudo2007/gpoba
   branch: master
-  site_domain: pest-exterminator-geoffrey-41657.netlify.com/
+  site_domain: pest-exterminator-geoffrey-41657.netlify.com
 media_folder: "images/uploads"
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
